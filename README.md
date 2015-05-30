@@ -1,9 +1,4 @@
 # Gemspace-Logo-Media-CI-Guidelines
-Gemspace Logo and Media, Cooperate Identify Guidelines
-
-Copyright registered since: 2015-05-30 14:13:45
-Copyright of the entire content of the following links is currently hold by Alec Frazer Hahn. (contact@bitcoin42.com)
-
 Gemspace Logo and Media, Cooperate Identify Guidelines:
 https://drive.google.com/folderview?id=0B0Hjkf-T7qPEfjdORDRRX1ZkQkVuOWtwV3pxRzBRbjRPaTdyZDR3RlMyZnB0RzdrSlhLUm8&usp=sharing
 
@@ -11,6 +6,9 @@ DRAFT OF GEMSPACE PROMO ANIMATION:
 http://youtu.be/75LpynTfbiQ
 PLEASE GIVE FEEDBACK!
 
+
+Copyright registered since: 2015-05-30 14:13:45
+Copyright of the entire content inside of the above links is hold by Alec Frazer Hahn. (contact@bitcoin42.com)
 
 Proof of Existence:
 1-GEMSPACE-LOGO.png
