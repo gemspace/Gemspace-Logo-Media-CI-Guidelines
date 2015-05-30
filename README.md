@@ -2,7 +2,7 @@
 Gemspace Logo and Media, Cooperate Identify Guidelines
 
 Copyright registered since: 2015-05-30 14:13:45
-The entire content in this folder is currently hold by Alec Frazer Hahn. (contact@bitcoin42.com)
+The copyright of the entire content in this folder is hold by Alec Frazer Hahn. (contact@bitcoin42.com)
 
 
 Proof of Existence:
